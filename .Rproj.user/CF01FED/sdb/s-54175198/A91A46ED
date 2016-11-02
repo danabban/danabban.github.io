@@ -1,14 +1,14 @@
 {
     "collab_server" : "",
-    "contents" : "---\ntitle: \"My Website\"\n---\n\nHello, Website!\n",
+    "contents" : "---\ntitle: \"Blog\"\n---\n\nThe concrete compressive strength is a highly nonlinear function of **age** and \n**ingredients**. \n\n***\n\nThese ingredients includes: \n\n* cement \n* blast \n* furnace \n* slag\n* fly ash \n* water \n* superplasticizer\n* coarse aggregate \n* fine aggregate.\n\nNB: The actual concrete compressive strength (MPa) for a *given mixture* under a \nspecific age (days) was determined from laboratory. The data can be downloaded here: [UCI](https://archive.ics.uci.edu/ml/machine-learning-databases/concrete/compressive/)\n\n",
     "created" : 1478072571536.000,
     "dirty" : false,
     "encoding" : "ISO8859-1",
     "folds" : "",
-    "hash" : "544699838",
+    "hash" : "615812355",
     "id" : "A91A46ED",
-    "lastKnownWriteTime" : 1478060314,
-    "last_content_update" : 1478060314,
+    "lastKnownWriteTime" : 1478073004,
+    "last_content_update" : 1478073004432,
     "path" : "~/GitHub/rmarkdown-website-examples/gh-pages/index.Rmd",
     "project_path" : "index.Rmd",
     "properties" : {

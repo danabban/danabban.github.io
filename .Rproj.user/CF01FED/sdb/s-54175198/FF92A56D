@@ -1,14 +1,14 @@
 {
     "collab_server" : "",
-    "contents" : "---\ntitle: \"About This Website\"\n---\n\nMore about this website.\n",
+    "contents" : "---\ntitle: \"About Me\"\n---\n\nMy name is Daniel Abban\n",
     "created" : 1478072558985.000,
     "dirty" : false,
     "encoding" : "ISO8859-1",
     "folds" : "",
-    "hash" : "1732481516",
+    "hash" : "4259538248",
     "id" : "FF92A56D",
-    "lastKnownWriteTime" : 1478060297,
-    "last_content_update" : 1478060297,
+    "lastKnownWriteTime" : 1478073004,
+    "last_content_update" : 1478073004333,
     "path" : "~/GitHub/rmarkdown-website-examples/gh-pages/about.Rmd",
     "project_path" : "about.Rmd",
     "properties" : {

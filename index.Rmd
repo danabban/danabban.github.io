@@ -1,5 +1,24 @@
 ---
-title: "My Website"
+title: "Blog"
 ---
 
-Hello, Website!
+The concrete compressive strength is a highly nonlinear function of **age** and 
+**ingredients**. 
+
+***
+
+These ingredients includes: 
+
+* cement 
+* blast 
+* furnace 
+* slag
+* fly ash 
+* water 
+* superplasticizer
+* coarse aggregate 
+* fine aggregate.
+
+NB: The actual concrete compressive strength (MPa) for a *given mixture* under a 
+specific age (days) was determined from laboratory. The data can be downloaded here: [UCI](https://archive.ics.uci.edu/ml/machine-learning-databases/concrete/compressive/)
+

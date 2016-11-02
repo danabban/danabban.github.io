@@ -1,5 +1,5 @@
 ---
-title: "About This Website"
+title: "About Me"
 ---
 
-More about this website.
+My name is Daniel Abban
