@@ -1,14 +1,14 @@
 {
     "collab_server" : "",
-    "contents" : "name: \"my-website\"\nnavbar:\n  title: \"My Website\"\n  left:\n    - text: \"Home\"\n      href: index.html\n    - text: \"About\"\n      href: about.html\noutput:\n  html_document:\n    theme: cosmo\n    highlight: textmate\n    include:\n      after_body: footer.html\n    css: styles.css",
+    "contents" : "name: \"danielabban.github.io\"\noutput_dir: \".\"\ninclude: [\"import.R\"]\nexclude: [\"docs.txt\", \"*.csv\"]\nnavbar:\n  title: \"My Website\"\n  left:\n    - text: \"Home\"\n      href: index.html\n    - text: \"About\"\n      href: about.html\noutput:\n  html_document:\n    theme: cosmo\n    highlight: textmate\n    include:\n      after_body: footer.html\n    css: styles.css",
     "created" : 1478072545465.000,
     "dirty" : false,
     "encoding" : "ISO8859-1",
     "folds" : "",
-    "hash" : "2723426446",
+    "hash" : "3024932786",
     "id" : "B4E026C4",
-    "lastKnownWriteTime" : 1478072718,
-    "last_content_update" : 1478072718075,
+    "lastKnownWriteTime" : 1478073220,
+    "last_content_update" : 1478073220830,
     "path" : "~/GitHub/rmarkdown-website-examples/gh-pages/_site.yml",
     "project_path" : "_site.yml",
     "properties" : {
