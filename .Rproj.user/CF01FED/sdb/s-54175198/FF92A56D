@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "---\ntitle: \"About This Website\"\n---\n\nMore about this website.\n",
+    "created" : 1478072558985.000,
+    "dirty" : false,
+    "encoding" : "ISO8859-1",
+    "folds" : "",
+    "hash" : "1732481516",
+    "id" : "FF92A56D",
+    "lastKnownWriteTime" : 1478060297,
+    "last_content_update" : 1478060297,
+    "path" : "~/GitHub/rmarkdown-website-examples/gh-pages/about.Rmd",
+    "project_path" : "about.Rmd",
+    "properties" : {
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
