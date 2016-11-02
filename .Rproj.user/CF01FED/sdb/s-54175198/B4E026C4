@@ -1,14 +1,14 @@
 {
     "collab_server" : "",
-    "contents" : "name: \"danielabban.github.io\"\noutput_dir: \".\"\ninclude: [\"import.R\"]\nexclude: [\"docs.txt\", \"*.csv\"]\nnavbar:\n  title: \"My Website\"\n  left:\n    - text: \"Home\"\n      href: index.html\n    - text: \"About\"\n      href: about.html\noutput:\n  html_document:\n    theme: cosmo\n    highlight: textmate\n    include:\n      after_body: footer.html\n    css: styles.css",
+    "contents" : "name: \"danielabban.github.io\"\noutput_dir: \".\"\ninclude: [\"import.R\"]\nexclude: [\"docs.txt\", \"*.csv\"]\nnavbar:\n  title: \"My Website\"\n  type: inverse\n  left:\n    - text: \"Home\"\n      icon: fa-home\n      href: index.html\n    - text: \"About\"\n      icon: fa-info\n      href: about.html\n    - text: \"More\"\n      icon: fa-gear\n      menu:\n        - text: \"Heading 1\"\n        - text: \"Page A\"\n          href: page_a.html\n        - text: \"Page B\"\n          href: page_b.html\n        - text: \"---------\"\n        - text: \"Heading 2\"\n        - text: \"Page C\"\n          href: page_c.html\n        - text: \"Page D\"\n          href: page_d.html\n  right:\n    - icon: fa-question fa-lg\n      href: https://example.com",
     "created" : 1478072545465.000,
     "dirty" : false,
     "encoding" : "ISO8859-1",
     "folds" : "",
-    "hash" : "3024932786",
+    "hash" : "158215577",
     "id" : "B4E026C4",
-    "lastKnownWriteTime" : 1478073220,
-    "last_content_update" : 1478073220830,
+    "lastKnownWriteTime" : 1478073584,
+    "last_content_update" : 1478073584397,
     "path" : "~/GitHub/rmarkdown-website-examples/gh-pages/_site.yml",
     "project_path" : "_site.yml",
     "properties" : {
